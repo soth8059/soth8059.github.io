@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/**
+ * CSS for Tara Sothy's Personal Website
+ */
+
+ .button{
+    background-color: #4d954694;
+}
+
+.button:hover{
+    background-color: #458641;
+}
+
+.Homepage{
+    background-color: #7660af8b;
+    
+}
+
+.Homepage:hover{
+    background-color: #674bac;
+}
+
+.Resume {
+    background-color: #dda44293;
+}
+
+.Resume:hover{
+    background-color: #d19124;
+}
+
+.Projects{
+    background-color: #73afa1ab;
+}
+
+.Projects:hover{
+    background-color: #4e8e7f;
+}
+
+.Fun{
+    background-color: #885673a4;
+}
+
+.Fun:hover{
+    background-color: #78325b;
+}
