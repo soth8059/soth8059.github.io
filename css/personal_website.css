@@ -23,10 +23,15 @@ h4{
 
 h1, h2, h3, h4{
     text-align: center;
+    padding: 0.15rem;
 }
 
 ul, ol{
     font-size: .85rem;
+}
+
+p{
+    padding: 0.1rem;
 }
 
 button{
@@ -46,6 +51,9 @@ a{
     align-items: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom:auto;
+    vertical-align: auto;
 }
 
 .menu{
